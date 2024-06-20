@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jjv4g9ujc-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jjv4g9ujc-nodejs
